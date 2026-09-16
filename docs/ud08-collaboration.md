@@ -15,3 +15,7 @@ Contributo creato su feature/ud08-collab-Uranophobic e sottoposto a Pull Request
 - push
 - Pull Request
 - review
+
+## Esito
+
+Review completata e modifica corretta.
